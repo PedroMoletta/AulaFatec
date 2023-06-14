@@ -1,0 +1,3 @@
+C:/Users/pedro/CLionProjects/Vetores1/cmake-build-debug/CMakeFiles/Vetores1.dir
+C:/Users/pedro/CLionProjects/Vetores1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pedro/CLionProjects/Vetores1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
